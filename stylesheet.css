@@ -1,0 +1,22 @@
+.title {
+    color: #02ccba;
+  }
+.signup {
+    font-size: large;
+    background-color: brown;
+    color: aliceblue;
+    width: 150px;
+    height: 50px;
+    padding: 20px;
+    margin-top: 30px;
+    display: inline-block;
+    box-shadow: 0 10px gray;
+}
+.signup:active {
+    position: relative;
+    top: 10px;
+    box-shadow: none;
+}
+body {
+    text-align: center;
+}
